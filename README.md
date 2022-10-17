@@ -1,7 +1,7 @@
-### Hi there 👋
+Hola
 
 
-hola este es mi readme md de portada
+Me considero autodidacta con ganas de nunca dejar de aprender y practicar para hacer eficiente lo aprendido, creo que la curiosidad por su naturaleza está unida a nosotros los humanos, me gusta la fotografía y tocar guitarra. Trato de resolver problemas de manera sistemática, en la práctica vi que muchos problemas tienen la misma forma creando así patrones
 
 
 <!--
